@@ -1,0 +1,14 @@
+D:\Work\Study\.NET Core\MyPortfolio\MyPortfolio\bin\Debug\netcoreapp2.2\MyPortfolio.deps.json
+D:\Work\Study\.NET Core\MyPortfolio\MyPortfolio\bin\Debug\netcoreapp2.2\MyPortfolio.runtimeconfig.json
+D:\Work\Study\.NET Core\MyPortfolio\MyPortfolio\bin\Debug\netcoreapp2.2\MyPortfolio.runtimeconfig.dev.json
+D:\Work\Study\.NET Core\MyPortfolio\MyPortfolio\bin\Debug\netcoreapp2.2\MyPortfolio.dll
+D:\Work\Study\.NET Core\MyPortfolio\MyPortfolio\obj\Debug\netcoreapp2.2\MyPortfolio.csproj.CoreCompileInputs.cache
+D:\Work\Study\.NET Core\MyPortfolio\MyPortfolio\obj\Debug\netcoreapp2.2\MyPortfolio.RazorAssemblyInfo.cache
+D:\Work\Study\.NET Core\MyPortfolio\MyPortfolio\obj\Debug\netcoreapp2.2\MyPortfolio.RazorAssemblyInfo.cs
+D:\Work\Study\.NET Core\MyPortfolio\MyPortfolio\obj\Debug\netcoreapp2.2\MyPortfolio.AssemblyInfoInputs.cache
+D:\Work\Study\.NET Core\MyPortfolio\MyPortfolio\obj\Debug\netcoreapp2.2\MyPortfolio.AssemblyInfo.cs
+D:\Work\Study\.NET Core\MyPortfolio\MyPortfolio\obj\Debug\netcoreapp2.2\MyPortfolio.RazorTargetAssemblyInfo.cache
+D:\Work\Study\.NET Core\MyPortfolio\MyPortfolio\bin\Debug\netcoreapp2.2\MyPortfolio.pdb
+D:\Work\Study\.NET Core\MyPortfolio\MyPortfolio\obj\Debug\netcoreapp2.2\MyPortfolio.csprojAssemblyReference.cache
+D:\Work\Study\.NET Core\MyPortfolio\MyPortfolio\obj\Debug\netcoreapp2.2\MyPortfolio.dll
+D:\Work\Study\.NET Core\MyPortfolio\MyPortfolio\obj\Debug\netcoreapp2.2\MyPortfolio.pdb
